@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-13T03:48:47.829Z</updated>
+  <updated>2020-02-14T05:03:38.680Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>昨日学习心得</title>
+    <link href="http://yoursite.com/2020/02/13/%E6%98%A8%E6%97%A5%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/"/>
+    <id>http://yoursite.com/2020/02/13/%E6%98%A8%E6%97%A5%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/</id>
+    <published>2020-02-13T15:44:14.000Z</published>
+    <updated>2020-02-14T05:03:38.680Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h1&gt;&lt;p&gt;总结了昨日所学习到的有关于学习方式方法的心得。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="学习" scheme="http://yoursite.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="感悟" scheme="http://yoursite.com/categories/%E5%AD%A6%E4%B9%A0/%E6%84%9F%E6%82%9F/"/>
+    
+    
+      <category term="感悟" scheme="http://yoursite.com/tags/%E6%84%9F%E6%82%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
