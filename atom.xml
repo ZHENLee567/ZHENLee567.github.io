@@ -6,22 +6,46 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-14T05:03:38.680Z</updated>
+  <updated>2020-02-14T13:13:20.809Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>ZHENLEE</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>About Me</title>
+    <link href="http://yoursite.com/2020/02/14/about/"/>
+    <id>http://yoursite.com/2020/02/14/about/</id>
+    <published>2020-02-14T13:03:28.000Z</published>
+    <updated>2020-02-14T13:13:20.809Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;A Coder, study in Shenzhen, China
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>昨日学习心得</title>
     <link href="http://yoursite.com/2020/02/13/%E6%98%A8%E6%97%A5%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/"/>
     <id>http://yoursite.com/2020/02/13/%E6%98%A8%E6%97%A5%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/</id>
     <published>2020-02-13T15:44:14.000Z</published>
-    <updated>2020-02-14T05:03:38.680Z</updated>
+    <updated>2020-02-14T12:46:44.685Z</updated>
     
     <summary type="html">
     
