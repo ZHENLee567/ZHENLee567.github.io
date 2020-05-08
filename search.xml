@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>爬取网站内容受到限制的解决方法</title>
+    <url>/2020/05/08/%E7%88%AC%E5%8F%96%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9%E5%8F%97%E5%88%B0%E9%99%90%E5%88%B6%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</url>
+    <content><![CDATA[<h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>今日写爬虫代码爬取歌词时受到了屏蔽，爬取不到内容，记录一下解决方法</p>
+<a id="more"></a>
+
+<h2 id="爬取被屏蔽的原因"><a href="#爬取被屏蔽的原因" class="headerlink" title="爬取被屏蔽的原因"></a>爬取被屏蔽的原因</h2><h3 id="1、收到的资源请求信息来源不是浏览器"><a href="#1、收到的资源请求信息来源不是浏览器" class="headerlink" title="1、收到的资源请求信息来源不是浏览器"></a>1、收到的资源请求信息来源不是浏览器</h3><h3 id="2、请求的源头不是固定网站"><a href="#2、请求的源头不是固定网站" class="headerlink" title="2、请求的源头不是固定网站"></a>2、请求的源头不是固定网站</h3><h2 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h2><h3 id="在进行网页请求的时候加上请求头（这里以爬取qq音乐为例）"><a href="#在进行网页请求的时候加上请求头（这里以爬取qq音乐为例）" class="headerlink" title="在进行网页请求的时候加上请求头（这里以爬取qq音乐为例）"></a>在进行网页请求的时候加上请求头（这里以爬取qq音乐为例）</h3><figure class="highlight plain"><figcaption><span>[请求头代码] [url] [link text]</span></figcaption><table><tr><td class="code"><pre><span class="line">headers&#x3D;&#123;&#39;Accept&#39;: &#39;application&#x2F;json, text&#x2F;javascript, *&#x2F;*; q&#x3D;0.01&#39;,</span><br><span class="line">         #伪装请求源网站，根据爬取的网站确定</span><br><span class="line">         &#39;Origin&#39;: &#39;https:&#x2F;&#x2F;y.qq.com&#39;,</span><br><span class="line">         #伪装请求网站</span><br><span class="line">         &#39;Referer&#39;: &#39;https:&#x2F;&#x2F;y.qq.com&#x2F;n&#x2F;yqq&#x2F;song&#x2F;0039MnYb0qxYhV.html&#39;,</span><br><span class="line">         #伪装浏览器</span><br><span class="line">         &#39;User-Agent&#39;: &#39;Mozilla&#x2F;5.0 (Windows NT 6.3; Win64; x64) AppleWebKit&#x2F;537.36 (KHTML, like Gecko) Chrome&#x2F;73.0.3683.103 Safari&#x2F;537.36&#39;</span><br><span class="line">         &#125;</span><br><span class="line">#请求爬取网站</span><br><span class="line">res &#x3D; request.get(url, headers &#x3D; headers)</span><br></pre></td></tr></table></figure>
+<p>上面的参数要根据具体爬取的时候确定,如果只要爬取网站的固定内容，只需要‘User-Agent’就够了。<br>如果需要爬取XHR文件里面的json，则需要在网页中查看请求头确定信息<br><img src="%E6%9F%A5%E7%9C%8B%E8%AF%B7%E6%B1%82%E5%A4%B4.png" alt="查看网页中的请求头信息" title="查看网页中的请求头信息"></p>
+]]></content>
+      <tags>
+        <tag>学习</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>About Me</title>
     <url>/2020/02/14/about/</url>
     <content><![CDATA[<blockquote>

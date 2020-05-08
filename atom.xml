@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-14T13:13:20.809Z</updated>
+  <updated>2020-05-08T14:27:00.861Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>爬取网站内容受到限制的解决方法</title>
+    <link href="http://yoursite.com/2020/05/08/%E7%88%AC%E5%8F%96%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9%E5%8F%97%E5%88%B0%E9%99%90%E5%88%B6%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
+    <id>http://yoursite.com/2020/05/08/%E7%88%AC%E5%8F%96%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9%E5%8F%97%E5%88%B0%E9%99%90%E5%88%B6%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</id>
+    <published>2020-05-08T13:56:48.000Z</published>
+    <updated>2020-05-08T14:27:00.861Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h1&gt;&lt;p&gt;今日写爬虫代码爬取歌词时受到了屏蔽，爬取不到内容，记录一下解决方法&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>About Me</title>
