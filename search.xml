@@ -1,12 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>中值定理</title>
+    <url>/2020/05/24/%E4%B8%AD%E5%80%BC%E5%AE%9A%E7%90%86/</url>
+    <content><![CDATA[<h2 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h2><h3 id="高等数学第六讲的一个结构总结"><a href="#高等数学第六讲的一个结构总结" class="headerlink" title="高等数学第六讲的一个结构总结"></a>高等数学第六讲的一个结构总结</h3><a id="more"></a>
+<h2 id="十大定理及其应用"><a href="#十大定理及其应用" class="headerlink" title="十大定理及其应用"></a>十大定理及其应用</h2><h3 id="1、涉及函数f-x-的中值定理"><a href="#1、涉及函数f-x-的中值定理" class="headerlink" title="1、涉及函数f(x)的中值定理"></a>1、涉及函数f(x)的中值定理</h3><p>使用条件：f(x)在闭区间[a, b]上连续</p>
+<h4 id="定理1——有界与最值定理"><a href="#定理1——有界与最值定理" class="headerlink" title="定理1——有界与最值定理"></a>定理1——有界与最值定理</h4><h4 id="定理2——介值定理"><a href="#定理2——介值定理" class="headerlink" title="定理2——介值定理"></a>定理2——介值定理</h4><h4 id="定理3——平均值定理"><a href="#定理3——平均值定理" class="headerlink" title="定理3——平均值定理"></a>定理3——平均值定理</h4><h4 id="定理4——零点定理"><a href="#定理4——零点定理" class="headerlink" title="定理4——零点定理"></a>定理4——零点定理</h4><h3 id="2、涉及导数-微分-f’-x-的中值定理"><a href="#2、涉及导数-微分-f’-x-的中值定理" class="headerlink" title="2、涉及导数(微分)f’(x)的中值定理"></a>2、涉及导数(微分)f’(x)的中值定理</h3><h4 id="定理5——费马定理"><a href="#定理5——费马定理" class="headerlink" title="定理5——费马定理"></a>定理5——费马定理</h4><h4 id="定理6——罗尔定理"><a href="#定理6——罗尔定理" class="headerlink" title="定理6——罗尔定理"></a>定理6——罗尔定理</h4><h4 id="定理7——拉格朗日中值定理"><a href="#定理7——拉格朗日中值定理" class="headerlink" title="定理7——拉格朗日中值定理"></a>定理7——拉格朗日中值定理</h4><h4 id="定理8——柯西中值定理"><a href="#定理8——柯西中值定理" class="headerlink" title="定理8——柯西中值定理"></a>定理8——柯西中值定理</h4><h4 id="定理9——泰勒公式"><a href="#定理9——泰勒公式" class="headerlink" title="定理9——泰勒公式"></a>定理9——泰勒公式</h4><h4 id="定理10——积分中值定理"><a href="#定理10——积分中值定理" class="headerlink" title="定理10——积分中值定理"></a>定理10——积分中值定理</h4>]]></content>
+      <tags>
+        <tag>学习</tag>
+        <tag>高等数学</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>考研学习进度</title>
     <url>/2020/05/23/%E8%80%83%E7%A0%94%E5%AD%A6%E4%B9%A0%E8%BF%9B%E5%BA%A6/</url>
     <content><![CDATA[<h1 id="考研各科目进度如下："><a href="#考研各科目进度如下：" class="headerlink" title="考研各科目进度如下："></a>考研各科目进度如下：</h1><a id="more"></a>
-<h2 id="数学一"><a href="#数学一" class="headerlink" title="数学一"></a>数学一</h2><h3 id="1、张宇"><a href="#1、张宇" class="headerlink" title="1、张宇"></a>1、张宇</h3><p>看完第6讲</p>
-<h3 id="2、李范全书"><a href="#2、李范全书" class="headerlink" title="2、李范全书"></a>2、李范全书</h3><p>看完第二章</p>
-<h2 id="英语一"><a href="#英语一" class="headerlink" title="英语一"></a>英语一</h2><h3 id="尚未开始"><a href="#尚未开始" class="headerlink" title="尚未开始"></a>尚未开始</h3><h2 id="政治"><a href="#政治" class="headerlink" title="政治"></a>政治</h2><h3 id="尚未开始-1"><a href="#尚未开始-1" class="headerlink" title="尚未开始"></a>尚未开始</h3><h2 id="408"><a href="#408" class="headerlink" title="408"></a>408</h2><h3 id="尚未开始-2"><a href="#尚未开始-2" class="headerlink" title="尚未开始"></a>尚未开始</h3><p>更新时间：<br>2020-5-23</p>
+<h2 id="数学一"><a href="#数学一" class="headerlink" title="数学一"></a>数学一</h2><div class="table-container">
+<table>
+<thead>
+<tr>
+<th>张宇</th>
+<th>看完第8讲</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>李范全书</td>
+<td>看完第二章</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id="英语一"><a href="#英语一" class="headerlink" title="英语一"></a>英语一</h2><h3 id="尚未开始"><a href="#尚未开始" class="headerlink" title="尚未开始"></a>尚未开始</h3><h2 id="政治"><a href="#政治" class="headerlink" title="政治"></a>政治</h2><h3 id="尚未开始-1"><a href="#尚未开始-1" class="headerlink" title="尚未开始"></a>尚未开始</h3><h2 id="408"><a href="#408" class="headerlink" title="408"></a>408</h2><h3 id="尚未开始-2"><a href="#尚未开始-2" class="headerlink" title="尚未开始"></a>尚未开始</h3><p>更新时间：<br>2020-5-29</p>
 ]]></content>
       <tags>
         <tag>考研</tag>
@@ -15,8 +40,10 @@
   <entry>
     <title>考研倒计时</title>
     <url>/2020/05/17/time/</url>
-    <content><![CDATA[<h1 id="现在距离考研还剩下"><a href="#现在距离考研还剩下" class="headerlink" title="现在距离考研还剩下"></a>现在距离考研还剩下</h1><h1 id="209-天"><a href="#209-天" class="headerlink" title="209 天"></a>209 天</h1><p>现在时间：2020-5-23</p>
-]]></content>
+    <content><![CDATA[<center>
+# 现在距离考研还剩下
+# 203 天
+现在时间：2020-5-29</center>]]></content>
   </entry>
   <entry>
     <title>一元函数微分学的概念与计算</title>
