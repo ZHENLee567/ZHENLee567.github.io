@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ZHENLEE的博客</title>
+  
+  <subtitle>个人博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2021-04-26T02:03:46.690Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>ZHENLEE</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>丑数</title>
+    <link href="http://yoursite.com/2021/04/11/%E4%B8%91%E6%95%B0/"/>
+    <id>http://yoursite.com/2021/04/11/%E4%B8%91%E6%95%B0/</id>
+    <published>2021-04-11T09:14:07.000Z</published>
+    <updated>2021-04-26T02:03:46.690Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+      <category term="每日一题" scheme="http://yoursite.com/tags/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>中值定理</title>
+    <link href="http://yoursite.com/2020/05/24/%E4%B8%AD%E5%80%BC%E5%AE%9A%E7%90%86/"/>
+    <id>http://yoursite.com/2020/05/24/%E4%B8%AD%E5%80%BC%E5%AE%9A%E7%90%86/</id>
+    <published>2020-05-24T07:29:25.000Z</published>
+    <updated>2020-05-24T07:42:55.918Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h2&gt;&lt;h3 id=&quot;高等数学第六讲的一个结构总结&quot;&gt;&lt;a href=&quot;#高等数学第六讲的一个结构总结&quot; class=&quot;headerlink&quot; title=&quot;高等数学第六讲的一个结构总结&quot;&gt;&lt;/a&gt;高等数学第六讲的一个结构总结&lt;/h3&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="高等数学" scheme="http://yoursite.com/tags/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>考研学习进度</title>
+    <link href="http://yoursite.com/2020/05/23/%E8%80%83%E7%A0%94%E5%AD%A6%E4%B9%A0%E8%BF%9B%E5%BA%A6/"/>
+    <id>http://yoursite.com/2020/05/23/%E8%80%83%E7%A0%94%E5%AD%A6%E4%B9%A0%E8%BF%9B%E5%BA%A6/</id>
+    <published>2020-05-23T05:58:24.000Z</published>
+    <updated>2020-05-29T02:19:55.862Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;考研各科目进度如下：&quot;&gt;&lt;a href=&quot;#考研各科目进度如下：&quot; class=&quot;headerlink&quot; title=&quot;考研各科目进度如下：&quot;&gt;&lt;/a&gt;考研各科目进度如下：&lt;/h1&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="考研" scheme="http://yoursite.com/tags/%E8%80%83%E7%A0%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>考研倒计时</title>
+    <link href="http://yoursite.com/2020/05/17/time/"/>
+    <id>http://yoursite.com/2020/05/17/time/</id>
+    <published>2020-05-17T13:04:21.000Z</published>
+    <updated>2020-05-29T02:18:17.535Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;h1&gt;&lt;/p&gt;
+&lt;center&gt;现在距离考研还剩下&lt;/center&gt;
+&lt;center&gt;203
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>一元函数微分学的概念与计算</title>
+    <link href="http://yoursite.com/2020/05/11/%E4%B8%80%E5%85%83%E5%87%BD%E6%95%B0%E5%BE%AE%E5%88%86%E5%AD%A6%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E8%AE%A1%E7%AE%97/"/>
+    <id>http://yoursite.com/2020/05/11/%E4%B8%80%E5%85%83%E5%87%BD%E6%95%B0%E5%BE%AE%E5%88%86%E5%AD%A6%E7%9A%84%E6%A6%82%E5%BF%B5%E4%B8%8E%E8%AE%A1%E7%AE%97/</id>
+    <published>2020-05-11T15:16:04.000Z</published>
+    <updated>2020-05-11T16:41:05.079Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h2&gt;&lt;h3 id=&quot;高等数学第四讲的一个结构总结&quot;&gt;&lt;a href=&quot;#高等数学第四讲的一个结构总结&quot; class=&quot;headerlink&quot; title=&quot;高等数学第四讲的一个结构总结&quot;&gt;&lt;/a&gt;高等数学第四讲的一个结构总结&lt;/h3&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="高等数学" scheme="http://yoursite.com/tags/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>爬取网站内容受到限制的解决方法</title>
+    <link href="http://yoursite.com/2020/05/08/%E7%88%AC%E5%8F%96%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9%E5%8F%97%E5%88%B0%E9%99%90%E5%88%B6%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
+    <id>http://yoursite.com/2020/05/08/%E7%88%AC%E5%8F%96%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9%E5%8F%97%E5%88%B0%E9%99%90%E5%88%B6%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/</id>
+    <published>2020-05-08T13:56:48.000Z</published>
+    <updated>2020-05-11T15:16:59.777Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h1&gt;&lt;p&gt;今日写爬虫代码爬取歌词时受到了屏蔽，爬取不到内容，记录一下解决方法&lt;br&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="python" scheme="http://yoursite.com/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>About Me</title>
+    <link href="http://yoursite.com/2020/02/14/about/"/>
+    <id>http://yoursite.com/2020/02/14/about/</id>
+    <published>2020-02-14T13:03:28.000Z</published>
+    <updated>2020-02-14T13:13:20.809Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;A Coder, study in Shenzhen, China
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>昨日学习心得</title>
+    <link href="http://yoursite.com/2020/02/13/%E6%98%A8%E6%97%A5%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/"/>
+    <id>http://yoursite.com/2020/02/13/%E6%98%A8%E6%97%A5%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/</id>
+    <published>2020-02-13T15:44:14.000Z</published>
+    <updated>2020-02-14T12:46:44.685Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h1&gt;&lt;p&gt;总结了昨日所学习到的有关于学习方式方法的心得。&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="学习" scheme="http://yoursite.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="感悟" scheme="http://yoursite.com/categories/%E5%AD%A6%E4%B9%A0/%E6%84%9F%E6%82%9F/"/>
+    
+    
+      <category term="感悟" scheme="http://yoursite.com/tags/%E6%84%9F%E6%82%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/02/13/hello-world/"/>
+    <id>http://yoursite.com/2020/02/13/hello-world/</id>
+    <published>2020-02-13T03:48:47.829Z</published>
+    <updated>2020-02-13T03:48:47.829Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
